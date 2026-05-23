@@ -51,7 +51,7 @@ Como o software foi projetado usando arquitetura estática *Client-Side* com o T
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/tabela-periodica-acessivel.git](https://github.com/seu-usuario/tabela-periodica-acessivel.git)
+   git clone [https://github.com/23lucas45ribeiro-svg/tabela-periodica-acessivel.git](https://github.com/23lucas45ribeiro-svg/tabela-periodica-acessivel.git)
 
 2.Navegue até a pasta do projeto.
 
