@@ -7,6 +7,10 @@
 
 Este é um projeto escolar de caráter inclusivo e interdisciplinar. Trata-se de uma **Tabela Periódica Interativa** projetada especificamente para ser acessível a pessoas com deficiência auditiva, integrando a ferramenta oficial **VLibras** para tradução de conteúdos textuais em tempo real para a Língua Brasileira de Sinais.
 
+|Abaixo o link de acesso do tabela|
+
+Tabela Periódica: https://23lucas45ribeiro-svg.github.io/Tabela-Periodica-Com-V-LIBRAS-/
+
 A aplicação permite a exploração dinâmica dos elementos químicos, fornecendo propriedades detalhadas de forma visualmente rica e totalmente adaptada.
 
 ---
